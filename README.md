@@ -7,8 +7,10 @@ This is a collection of ports for the spaceduck theme, if you are looking for th
 ## Firefox
 you can add The spaceduck theme to firefox from the offical Firefox Browser Addons website:
 [https://addons.mozilla.org/firefox/addon/spaceduck/](https://addons.mozilla.org/firefox/addon/spaceduck/)
+[Firefox Theme](screenshots/firefox.png)
 
 ## DuckDuckGo
 to add spaceduck to your ddg search results:
 click on `Settings` > `All Settings` > find `Cloud Save` > `Load Settings` > type `spaceduck-ddg` > click `Load`
+[Spaceduck Theme](screenshots/duckduckgo.png)
 
